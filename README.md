@@ -12,7 +12,7 @@
 
 
 <h1 align="center">Objetivo</h1>
-Projeto front-end ultilizando Next JS | Styled Components | Unform | Typescript.
+<p>Projeto front-end ultilizando Next JS | Styled Components | Unform | Typescript.</p>
 O Objetivo será criar uma aplicação de login, ou seja, acesso de um usuário. O
 funcionamento é simples: ao preencher e-mail e senha deverá ser mostrado um alerta com
 sucesso ou erro. Também teremos uma validação de preenchimento correto em campo de
