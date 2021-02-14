@@ -27,7 +27,6 @@ export default function Home() {
             <label>
               <p>E-MAIL</p>
               <Input
-                icon={MdClose}
                 name="email"
                 type="email"
                 placeholder="user.name@mail.com"
