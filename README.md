@@ -32,7 +32,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## Deploy
 <p> Primeiro rode o servidor de desenvolvimento: </p>
-<p> npm run dev or yarn dev </p>
+<p> npm run dev</p>
+<p> ou: </p>
+<p> yarn dev</p>
 <p> Abra http://localhost:3000 com o seu navegador para ver o resultado. </p>
 
 ## Vercel
