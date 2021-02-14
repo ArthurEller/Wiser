@@ -4,7 +4,7 @@
  <a href="#tecnologias">Tecnologias</a> •
  <a href="#deploy">Deploy</a> •
 </p>
-<h1 align="center">Login Challenge</h1>
+<h1 align="center">Login Challenge 😎</h1>
 <h4 align="center">
 	🚀 Challenge Finalizado!
 </h4>
@@ -31,14 +31,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 ## Deploy
-Primeiro rode o servidor de desenvolvimento:
-npm run dev
-# or
-yarn dev
-Abra http://localhost:3000 com o seu navegador para ver o resultado.
+<p> Primeiro rode o servidor de desenvolvimento: </p>
+<p> npm run dev or yarn dev </p>
+<p> Abra http://localhost:3000 com o seu navegador para ver o resultado. </p>
 
-## Heroku
-
+## Vercel
+https://login-challenge.vercel.app/
 
 
 ## Meta
