@@ -38,7 +38,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <p> Abra http://localhost:3000 com o seu navegador para ver o resultado. </p>
 
 ## Vercel
-https://login-challenge.vercel.app/
+https://login-challenge-a95hp34fu.vercel.app/
 
 
 ## Meta
